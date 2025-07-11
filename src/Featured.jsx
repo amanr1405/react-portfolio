@@ -3,7 +3,7 @@ import React from "react";
 export default function Featured() {
   return (
     <>
-      <div className="stats w-full">
+      <div className="stats">
         
 
         <div className="stat">

@@ -10,6 +10,8 @@ import Skill from './Skill.jsx'
 import Project from './Project.jsx'
 import ProjectMaster from './ProjectMaster.jsx'
 import Contact from './Contact.jsx'
+import InfoMaster from './InfoMaster.jsx'
+
 
 function App() {
   return (
@@ -17,11 +19,10 @@ function App() {
       
       <Nav />
       <Heroic />
-      {/* <Info /> */}
-      
-      <div className="container p-10  pt-30 pb-30 max-w-full"><Timeline/></div>
+      <div className="container p-5 max-w-full"><InfoMaster/></div>
+      <div className="container p-10 pb-30 max-w-full"><Timeline/></div>
       <Skill/>
-      <div className="container p-10 max-w-full"><ProjectMaster/></div>
+      <div className="container p-10 pt-30 pb-30 max-w-full"><ProjectMaster/></div>
       <Contact />
       <Footer />
 
