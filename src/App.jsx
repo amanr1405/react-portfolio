@@ -17,7 +17,7 @@ function App() {
       
       <Nav />
       <Heroic />
-      <Info />
+      {/* <Info /> */}
       
       <div className="container p-10  pt-30 pb-30 max-w-full"><Timeline/></div>
       <Skill/>
