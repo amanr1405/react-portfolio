@@ -4,7 +4,7 @@ import Featured from "./Featured.jsx";
 export default function Info() {
   return (
     <>
-      <div className="hero bg-base min-h-[35rem] max-w-screen p-10">
+      <div className="hero bg-base min-h-[35rem] w-full p-10">
         <div className="hero-content flex-col lg:flex-row gap-10 items-start">
           <div className="container"><Code /></div>
           <div>

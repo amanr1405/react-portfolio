@@ -3,7 +3,10 @@ import React from "react";
 export default function Code() {
   return (
     <>
-      <div className="mockup-code w-full ">
+
+    <div className="container">
+      
+      <div className="mockup-code">
         <pre data-prefix=">>">
           <code className="text-green-600">// developer-focused</code>
         </pre>
@@ -59,6 +62,10 @@ export default function Code() {
         </pre>
 
       </div>
+    </div>
+
     </>
   );
 }
+
+

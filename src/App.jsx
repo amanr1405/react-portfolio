@@ -14,15 +14,19 @@ import Contact from './Contact.jsx'
 function App() {
   return (
     <>
+      
       <Nav />
       <Heroic />
       <Info />
       
-      <div className="container p-10  pt-30 pb-30"><Timeline/></div>
+      <div className="container p-10  pt-30 pb-30 max-w-full"><Timeline/></div>
       <Skill/>
-      <div className="container p-10"><ProjectMaster/></div>
+      <div className="container p-10 max-w-full"><ProjectMaster/></div>
       <Contact />
       <Footer />
+
+
+    
     </>
   )
 }
