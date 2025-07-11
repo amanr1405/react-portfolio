@@ -5,9 +5,7 @@ export default function Info() {
   return (
     <>
 <div className="hero-content flex flex-col lg:flex-row items-start p-6 md:p-10 lg:p-16">
-
-        <div className="hero-content flex-auto lg:flex-row items-start">
-          <div>
+          <div className="container w-[100%]">
             <h1 className="text-5xl font-bold">Box Office News!</h1>
             <p className="py-6">
               Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
@@ -17,7 +15,6 @@ export default function Info() {
             <Featured />
           </div>
         </div>
-      </div>
     </>
   );
 }
