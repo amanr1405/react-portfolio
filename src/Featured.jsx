@@ -6,7 +6,7 @@ export default function Featured() {
       <div className="stats">
         
 
-        <div className="stat p-5">
+        <div className="stat p-2">
           <div className="stat-figure text-secondary">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -27,7 +27,7 @@ export default function Featured() {
           <div className="stat-desc">↗︎ 400 (22%)</div>
         </div>
 
-        <div className="stat p-5">
+        <div className="stat p-2">
           <div className="stat-figure text-secondary">
             <svg
               xmlns="http://www.w3.org/2000/svg"
