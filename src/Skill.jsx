@@ -109,7 +109,7 @@ const skillIcons = [
 export default function Skill() {
   return (
     <>
-      <h1 className="text-5xl font-bold text-center pt-20 pb-10">
+      <h1 className="text-5xl font-bold text-center p-5 pt-20 pb-10">
         <span className="colorChange text-pink-500">Debug</span> dreams and{" "}
         <span className="colorChange text-pink-500">deploy</span> solution.
       </h1>
