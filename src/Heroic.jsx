@@ -6,7 +6,7 @@ export default function Heroic() {
       <div className="hero bg-base min-h-[35rem]">
         <div className="hero-content text-center">
           <div className="max-w-[40rem]">
-            <h1 className="text-5xl font-bold"> <span className="colorChange text-pink-500">Digital designer</span> crafting products that people <span className="colorChange text-pink-500">love</span>.</h1>
+            <h1 className="text-5xl font-bold"> Creating <span className="colorChange text-pink-500">Smart Tech </span>That Speaks Your <span className="colorChange text-pink-500">Language</span>.</h1>
             <p className="py-6">
             I'm <span className="colorChange text-pink-500"><strong>Aman</strong></span>, a tech enthusiast and web developer who loves turning ideas into functional, user-friendly digital experiences. 
             </p>
