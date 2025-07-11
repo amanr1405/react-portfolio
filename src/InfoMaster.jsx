@@ -7,7 +7,7 @@ export default function InfoMaster() {
     <>
       <div className="flex w-full h-full flex-col lg:flex-row gap-5 p-5">
         <div className="card bg-base rounded-box grid h-full w-[50%] grow place-items-center">
-            <Code />
+            {/* <Code /> */}
         </div>
         <div className="card bg-base rounded-box grid h-full w-[50%] grow place-items-center">
          <Info />
