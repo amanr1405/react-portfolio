@@ -6,7 +6,7 @@ export default function Info() {
     <>
       <div className="hero bg-base min-h-auto w-full flex items-start justify-start">
 
-        <div className="hero-content flex-col lg:flex-row items-start">
+        <div className="hero-content flex-col lg:flex-row items-start overflow-hidden">
           <div>
             <h1 className="text-5xl font-bold">Box Office News!</h1>
             <p className="py-6">
